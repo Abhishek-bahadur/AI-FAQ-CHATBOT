@@ -1,0 +1,33 @@
+{
+    "faqs":[
+        {
+            "keywords":["hello","hi","hey"],
+            "response":"Oooo Helllooo, how can i help you today?"
+
+        },
+        {
+            "keywords":["python","what is python"],
+            "response":"Python is a high level programming language widely used in AI and Data science!"
+        },
+        {
+            "keywords":["flask","what is flask"],
+            "response":"Flask is a lightweight Python web framework. This chatbot is built using Flask!"
+        },
+        {
+            "keywords":["ai","what is ai","artificial intelligence"],
+            "response":"AI stands for Artificial Intelligence — it means machines that simulate human thinking and learning!"
+        },
+        {
+            "keywords":["ml","machine learning"],
+            "response":"It is a subset of AI and it is also devided in to 2 parts"
+        },
+        {
+            "keywords":["sql","what is sql"],
+            "response":"SQL is a standardized programming language used to manage,store,retrive, and manipulate data with relational databases"
+        },
+        {
+            "keywords":["bye", "goodbye", "see you"],
+            "response": "Goodbye! Feel free to come back anytime. Happy learning!"
+        }
+    ]
+}

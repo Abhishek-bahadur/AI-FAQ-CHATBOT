@@ -1,0 +1,3 @@
+.env
+__pycache__/  
+#this will tells git tonever upload your .env file -so your API key stays private even when you push to github.
